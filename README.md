@@ -5,14 +5,11 @@
 <details>
 <summary><b>2024</b></summary>
 <details>
-<summary><b>Eylül 2024</b></summary>
+<summary><b>Eylül-Ekim 2024</b></summary>
 
 ## 30 Eylül 2024
 Son zamanlarda katkıların baya düştüğünün farkındayım. İstikrarlı bir şekilde 1 milyon değişikliği geçtik. Birkaç güne projelerin daha verimli çalışması için 2. versiyonunu geliştirip 1. versiyonlarını devre dışı bırakacağım. 4. proje artık Github actions üzerinden değişiklik yapmasından dolayı 4. projenin 1. versiyonunu devre dışı bıraktım.
-</details>
-<details>
-<summary><b>Ekim 2024</b></summary>
-  
+
 ## 2 Ekim 2024
 Katkı sayı grafikleri düzelmeye başladı. Bakalım yarına kadar neler olacak.
 </details>
