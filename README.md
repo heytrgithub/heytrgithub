@@ -12,10 +12,9 @@ Son zamanlarda katkıların baya düştüğünün farkındayım. İstikrarlı bi
 </details>
 <details>
 <summary><b>Ekim 2024</b></summary>
-
+  
 ## 2 Ekim 2024
 Katkı sayı grafikleri düzelmeye başladı. Bakalım yarına kadar neler olacak.
-
 </details>
 </details>
 </details>
