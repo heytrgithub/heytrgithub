@@ -16,7 +16,16 @@ Katkı sayı grafikleri düzelmeye başladı. Bakalım yarına kadar neler olaca
 ## 19 Ekim 2024
 <img width="700" align="center" src="https://heyturkiye204.github.io/heyturkiye204/cdn/heytrgithub/1.jpg" />
 
-İstikrarlı şekilde değişiklik sayılarımız devam ediyor. Şu ana kadar bir düşüş görmedik. Değişiklik sayılarında düşüşler <b>HAFİF ŞEKİLDE</b> ilerlemektedir. Düzeni bozacak herhangi bir durum bulunmamaktadır. Kasım aylarına doğru 2.000.000 değişikliğe ulaşacağımızı düşünüyoruz. 
+İstikrarlı şekilde değişiklik sayılarımız devam ediyor. Şu ana kadar bir düşüş görmedik. Değişiklik sayılarında düşüşler <b>HAFİF ŞEKİLDE</b> ilerlemektedir. Düzeni bozacak herhangi bir durum bulunmamaktadır. Kasım aylarına doğru 2.000.000 değişikliğe ulaşacağımızı düşünüyoruz.
+
+## 29 Ekim 2024
+Öncelikle herkesin Cumhuriyetimizin 101. Yılını kutlarım. 🇹🇷 Şu anda 1.921.594 değişikliğe ulaşmış durumdayız. Kasım'ın 1-15 günleri arasında 2 milyon değişikliğe ulaşacağımız kesinlikle resmîleşmiştir. Değişiklik sayılarında herhangi bir olumsuzluk ta bulunmamaktadır.
+</details>
+<details>
+<summary><b>Kasım-Aralık 2024</b></summary>
+
+# Bilgi
+Henüz kasım ayına gelmedik.
 </details>
 </details>
 </details>
