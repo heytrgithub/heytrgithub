@@ -24,8 +24,8 @@ Katkı sayı grafikleri düzelmeye başladı. Bakalım yarına kadar neler olaca
 <details>
 <summary><b>Kasım-Aralık 2024</b></summary>
 
-# Bilgi
-Henüz kasım ayına gelmedik.
+# 2 Kasım 2024
+2 Kasım itibarıyla 2.000.000 değişikliğe ulaşmış durumdayız. Değişiklik sayılarında herhangi bir olumsuzluk ta bulunmamaktadır.
 </details>
 </details>
 </details>
