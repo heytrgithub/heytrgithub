@@ -26,6 +26,9 @@ Katkı sayı grafikleri düzelmeye başladı. Bakalım yarına kadar neler olaca
 
 ## 2 Kasım 2024
 2 Kasım itibarıyla 2.000.000 değişikliğe ulaşmış durumdayız. Değişiklik sayılarında herhangi bir olumsuzluk ta bulunmamaktadır.
+
+## 24 Kasım 2024
+An itibariyle 100. Günümüze giriş yapmış bulunmaktayız. 100 Gündür bu işi devam ettirmenin gururu hepimizin. Nice binlere :)
 </details>
 </details>
 </details>
