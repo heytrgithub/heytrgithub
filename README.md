@@ -1,5 +1,5 @@
 # Katkı Sayısı
-![](https://github-readme-streak-stats.herokuapp.com/?user=heytrgithub&theme=dark&hide_border=false&locale=tr)
+![](https://streak-stats.demolab.com/?user=heytrgithub&theme=dark&hide_border=false&locale=tr)
 <details>
 <summary><b>Notları Görmek için tıklayın!</b></summary>
 <details>
