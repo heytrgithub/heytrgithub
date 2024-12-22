@@ -35,6 +35,7 @@ Artık burayı o kadar unuttum ki bakmayı bile eksik etmişim. Birkaç gün ön
 
 ## 22 Aralık 2024
 yılın sonlarına gelmeye çok az kalmışken işte sistemimizin grafikleri. Son 128 günde Değişikliklerin %78'i olumlu geçmiş. Tabii bu oran %70'e kadar düşebilir.
+
 <img width="700" align="center" src="https://i.hizliresim.com/hdj2y0i.png" />
 
 </details>
