@@ -31,7 +31,11 @@ Katkı sayı grafikleri düzelmeye başladı. Bakalım yarına kadar neler olaca
 An itibariyle 100. Günümüze giriş yapmış bulunmaktayız. 100 Gündür bu işi devam ettirmenin gururu hepimizin. Nice binlere :)
 
 ## 18 Aralık 2024
-Artık burayı o kadar unuttum ki bakmayı bile eksik etmişim. Birkaç gün önce 3.000.000 değişikliği geçmiş bulunmaktayız. Hayatta böyle normal akışında gitseydi keşke...
+Artık burayı o kadar unuttum ki bakmayı bile eksik etmişim. Birkaç gün önce 3.000.000 değişikliği geçmiş bulunmaktayız.
+
+## 22 Aralık 2024
+yılın sonlarına gelmeye çok az kalmışken işte sistemimizin grafikleri. Son 128 günde Değişikliklerin %78'i olumlu geçmiş. Tabii bu oran %70'e kadar düşebilir.
+<img width="700" align="center" src="https://i.hizliresim.com/hdj2y0i.png" />
 
 </details>
 </details>
