@@ -40,6 +40,14 @@ yılın sonlarına gelmeye çok az kalmışken işte sistemimizin grafikleri. So
 
 </details>
 </details>
+<details>
+<summary><b>2025</b></summary>
+<details>
+<summary><b>Şubat-Temmuz 2025</b></summary>
+
+## 10 Şubat 2025
+4.000.000 düzenleme olduk! Yıl bitti 2. aya geçtik, ben burayı hâlâ güncellemedim. unuttuk herhalde, neyse. Projemize tam gaz devam. 
+</details>
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=heyturkiye204&left_text=👁%20Ziyaretçi%20Sayısı:%20(Visitors):)
