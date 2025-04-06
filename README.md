@@ -47,6 +47,10 @@ yılın sonlarına gelmeye çok az kalmışken işte sistemimizin grafikleri. So
 
 ## 10 Şubat 2025
 4.000.000 düzenleme olduk! Yıl bitti 2. aya geçtik, ben burayı hâlâ güncellemedim. unuttuk herhalde, neyse. Projemize tam gaz devam. 
+
+## 6 Nisan 2025
+5.000.000 düzenleme olduk! Projeye tam gaz devam :)
+
 </details>
 </details>
 
