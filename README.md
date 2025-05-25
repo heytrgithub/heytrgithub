@@ -51,6 +51,9 @@ yılın sonlarına gelmeye çok az kalmışken işte sistemimizin grafikleri. So
 ## 6 Nisan 2025
 5.000.000 düzenleme olduk! Projeye tam gaz devam :)
 
+## 25 Mayıs 2025 (son)
+
+Maalesef workflowlar yüzünden e-posta kutum %104 dolduğundan dolayı artık bu sistemi sonlandırma kararı aldım. 284 günlük seriyi de burda bitirmek zorunda kaldım. umarım başka projelerde görüşürüz! hoşçakalın.
 </details>
 </details>
 
